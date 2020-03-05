@@ -6,7 +6,7 @@ each one was loaded. mobylette has a low memory footprint and can parse
 several files simultaneously using several cpus, which is ideal for cluster
 environments.
 
-## tldr;
+## tldr
 
 ```
 git clone https://github.com/scibian/mobylette
